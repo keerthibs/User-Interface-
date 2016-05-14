@@ -24,7 +24,7 @@ import static uidesign.FileOperations.index;
 
 /**
  *
- * @author Aastha
+ * @author Aastha, Keerthi
  */
 
 public class Presentation extends javax.swing.JFrame {
