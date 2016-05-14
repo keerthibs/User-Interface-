@@ -6,6 +6,9 @@ import java.util.Date;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/*
+@author Aastha, Keerthi
+*/
 // This Class contains members, functions pertaining to the customers
 public class Customer implements Comparable<Customer>{
     
